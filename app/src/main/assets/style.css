@@ -1,0 +1,15 @@
+._129- {
+  bottom: 0;
+  position: fixed;
+  z-index: 99999;
+  width: 100%;
+}
+._4g34:nth-child(3) {
+  display: none;
+}
+#page {
+  margin-top: -5px;
+}
+.jewel .flyout {
+  margin-top: -100vh;
+}
